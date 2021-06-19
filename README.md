@@ -1,6 +1,6 @@
 NBA-Player-Statistics
 
-Objective: This is an ETL (Extract-Transform-Load) Project. Analyze the impact of international players in the NBA over the past 30 years by extracting data from multiple sources, transform it, and loading it onto a database, where it can be easily accessed/queried
+This is an ETL (Extract-Transform-Load) Project. Analyze the impact of international players in the NBA over the past 30 years by extracting data from multiple sources, transform it, and loading it onto a database, where it can be easily accessed/queried
 
 Deployed two data sources:	
 1. Basketball-Reference.com (BKRef) 
